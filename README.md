@@ -3,10 +3,10 @@
 
 
 
-- 🌱 I’m currently learning MERN STACK
+- 🌱  MERN STACK Developer
 
 
-- 💬 Ask me about Reactjs Nodejs JavaScript
+- 💬 Ask me about Reactjs Nodejs Express js Next js Prisma
 - 📫 How to reach me: ratheeshkarnan1999@gmail.com
 
 
