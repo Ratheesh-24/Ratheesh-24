@@ -9,15 +9,7 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ratheesh-karnan/" target="_blank">
-  </a>
-   <a href="https://github.com/Ratheesh-24">
-    <img src="https://magickiri.com/public/photo_64.png" alt="portfolio" height="30" width="30" />
-  </a>
-</p>
 
 ---
 
