@@ -13,8 +13,6 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ratheesh-karnan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="linkedin" height="30" width="40" />
   </a>
    <a href="https://github.com/Ratheesh-24">
     <img src="https://magickiri.com/public/photo_64.png" alt="portfolio" height="30" width="30" />
