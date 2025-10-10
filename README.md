@@ -10,10 +10,6 @@
 ---
 
 
-
----
-
-
 <h3 align="left">Languages&nbsp;and&nbsp;Tools&nbsp;I&nbsp;❤️ :</h3>
 <!-- Programming Languages -->
 <h4>💻 Programming Languages</h4>
