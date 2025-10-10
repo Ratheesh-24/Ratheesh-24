@@ -51,12 +51,24 @@
 <!-- Cloud & DevOps -->
 <h4>☁️ Cloud & DevOps</h4>
 <p align="left" style="display:flex;gap:10px;flex-wrap:wrap;align-items:center;">
-  <a href="https://docs.aws.amazon.com/" target="_blank"><img src="public/aws.svg" alt="AWS" title="AWS" height="36"/></a>
-  <a href="https://docs.docker.com/" target="_blank"><img src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker" height="36"/></a>
-  <a href="https://docs.aws.amazon.com/lambda/" target="_blank"><img src="public/lambda.svg" alt="AWS Lambda" title="AWS Lambda" height="36"/></a>
-  <a href="https://docs.aws.amazon.com/s3/" target="_blank"><img src="public/s3.svg" alt="Amazon S3" title="Amazon S3" height="36"/></a>
-  <a href="https://docs.aws.amazon.com/ecs/" target="_blank"><img src="public/ecs.svg" alt="Amazon ECS" title="Amazon ECS" height="36"/></a>
-  <a href="https://vercel.com/docs" target="_blank"><img src="https://cdn.simpleicons.org/vercel/ffffff" alt="Vercel" title="Vercel" height="36"/></a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/amazonaws" alt="AWS" title="AWS" height="36"/>
+  </a>
+  <a href="https://docs.aws.amazon.com/lambda/" target="_blank">
+    <img src="https://cdn.simpleicons.org/awslambda" alt="AWS Lambda" title="AWS Lambda" height="36"/>
+  </a>
+  <a href="https://docs.aws.amazon.com/s3/" target="_blank">
+    <img src="https://cdn.simpleicons.org/amazons3" alt="Amazon S3" title="Amazon S3" height="36"/>
+  </a>
+  <a href="https://docs.aws.amazon.com/ecs/" target="_blank">
+    <img src="https://cdn.simpleicons.org/amazonecs" alt="Amazon ECS" title="Amazon ECS" height="36"/>
+  </a>
+  <a href="https://docs.docker.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker" height="36"/>
+  </a>
+  <a href="https://vercel.com/docs" target="_blank">
+    <img src="https://cdn.simpleicons.org/vercel/ffffff" alt="Vercel" title="Vercel" height="36"/>
+  </a>
 </p>
 
 <!-- Tools & Others -->
