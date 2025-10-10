@@ -23,12 +23,6 @@
   <a href="https://docs.python.org/3/" target="_blank">
     <img src="https://img.icons8.com/color/36/000000/python.png" alt="Python" title="Python"/>
   </a>
-  <a href="https://go.dev/doc/" target="_blank">
-    <img src="https://img.icons8.com/color/36/000000/golang.png" alt="Go" title="Go"/>
-  </a>
-  <a href="https://en.cppreference.com/w/" target="_blank">
-    <img src="https://img.icons8.com/color/36/000000/c-plus-plus-logo.png" alt="C++" title="C++"/>
-  </a>
 </p>
 
 <!-- Frontend -->
@@ -66,15 +60,6 @@
   <a href="https://fastapi.tiangolo.com/" target="_blank">
     <img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" title="FastAPI" height="36"/>
   </a>
-  <a href="https://docs.deno.com/" target="_blank">
-    <img src="https://img.icons8.com/color/36/000000/deno.png" alt="Deno" title="Deno"/>
-  </a>
-    <a href="https://graphql.org/learn/" target="_blank">
-    <img src="https://cdn.simpleicons.org/graphql" alt="GraphQL" title="GraphQL" height="36"/>
-  </a>
-  <a href="https://docs.bullmq.io/" target="_blank">
-    <img src="https://img.icons8.com/color/36/000000/bull.png" alt="BullMQ" title="BullMQ"/>
-  </a>
   <a href="https://kafka.apache.org/documentation/" target="_blank">
     <img src="https://cdn.simpleicons.org/apachekafka/ffffff" alt="Apache Kafka" title="Apache Kafka" height="36"/>
   </a>
@@ -94,9 +79,6 @@
   </a>
   <a href="https://www.prisma.io/docs/" target="_blank">
     <img src="https://img.icons8.com/color/36/000000/prisma-orm.png" alt="Prisma" title="Prisma"/>
-  </a>
-  <a href="https://typeorm.io/" target="_blank">
-    <img src="https://cdn.simpleicons.org/typeorm" alt="TypeORM" title="TypeORM" height="36"/>
   </a>
 </p>
 
@@ -132,9 +114,6 @@
   <a href="https://docs.github.com/" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/36/FFFFFF/github.png" alt="GitHub" title="GitHub" style="background:#000;border-radius:4px;"/>
   </a>
-  <a href="https://playwright.dev/docs/intro" target="_blank">
-    <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" title="Playwright" height="36"/>
-  </a>
   <a href="https://jestjs.io/docs/getting-started" target="_blank">
     <img src="https://cdn.simpleicons.org/jest" alt="Jest" title="Jest" height="36"/>
   </a>
@@ -142,4 +121,4 @@
 
 ---
 
-> *“First, solve the problem. Then, write the code.”* — John Johnson
+
