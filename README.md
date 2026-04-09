@@ -1,82 +1,164 @@
-<!-- README.md for https://github.com/magic-kiri -->
+<!-- ╭─────────────────────────────────────────────────────────────╮ -->
+<!-- │  README.md · github.com/Ratheesh-24                        │ -->
+<!-- ╰─────────────────────────────────────────────────────────────╯ -->
 
-<h1 align="center">Hi 👋, I'm Ratheesh</h1>
-<h3 align="center">A passionate Full Stack Engineer from Chennai, India</h3>
+<!-- ═══════════════════  HEADER BANNER  ═══════════════════ -->
+<a href="https://github.com/Ratheesh-24">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=220&section=header&text=Ratheesh%20Karnan&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20%26%20RAG%20Builder&descSize=18&descAlignY=60&animation=fadeIn" alt="header"/>
+</a>
 
-- 🌱 I’m currently learning **AI Engineering · Retrieval-Augmented Generation (RAG)**
-- 💬 Ask me about **React.js · Express.js · Next.js · MongoDB**
-- 📫 How to reach me **ratheeshkarnan1999@gmail.com**
-
----
-
-<h3 align="left">Languages&nbsp;and&nbsp;Tools&nbsp;I&nbsp;❤️ :</h3>
-
-<!-- Programming Languages -->
-<h4>💻 Programming Languages</h4>
-<p align="left" style="display:flex;gap:10px;flex-wrap:wrap;align-items:center;">
-  <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://img.icons8.com/color/36/000000/typescript.png" alt="TypeScript" title="TypeScript"/></a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/36/000000/javascript.png" alt="JavaScript" title="JavaScript"/></a>
-  <a href="https://docs.python.org/3/" target="_blank"><img src="https://img.icons8.com/color/36/000000/python.png" alt="Python" title="Python"/></a>
+<p align="center">
+  <a href="mailto:ratheeshkarnan1999@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ratheeshkarnan1999%40gmail.com-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ratheesh-24">
+    <img src="https://img.shields.io/badge/GitHub-Ratheesh--24-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Based%20in-Chennai,%20India-1e3a8a?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
-<!-- Frontend -->
-<h4>🎨 Frontend Technologies</h4>
-<p align="left" style="display:flex;gap:10px;flex-wrap:wrap;align-items:center;">
-  <a href="https://react.dev/" target="_blank"><img src="https://cdn.simpleicons.org/react" alt="React" title="React" height="36"/></a>
-  <a href="https://nextjs.org/docs" target="_blank"><img src="https://cdn.simpleicons.org/nextdotjs/ffffff" alt="Next.js" title="Next.js" height="36"/></a>
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/36/000000/html-5.png" alt="HTML5" title="HTML5"/></a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/36/000000/css3.png" alt="CSS3" title="CSS3"/></a>
-  <a href="https://tailwindcss.com/docs" target="_blank"><img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" title="Tailwind CSS" height="36"/></a>
-</p>
-
-<!-- Backend -->
-<h4>⚙️ Backend Technologies</h4>
-<p align="left" style="display:flex;gap:10px;flex-wrap:wrap;align-items:center;">
-  <a href="https://nodejs.org/en/docs" target="_blank"><img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" title="Node.js" height="36"/></a>
-  <a href="https://expressjs.com/en/4x/api.html" target="_blank"><img src="https://cdn.simpleicons.org/express/ffffff" alt="Express" title="Express" height="36"/></a>
-  <a href="https://docs.nestjs.com/" target="_blank"><img src="https://img.icons8.com/color/36/000000/nestjs.png" alt="NestJS" title="NestJS"/></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" title="FastAPI" height="36"/></a>
-  <a href="https://kafka.apache.org/documentation/" target="_blank"><img src="https://cdn.simpleicons.org/apachekafka/ffffff" alt="Apache Kafka" title="Apache Kafka" height="36"/></a>
-</p>
-
-<!-- Database & ORM -->
-<h4>🗄️ Databases & ORMs</h4>
-<p align="left" style="display:flex;gap:10px;flex-wrap:wrap;align-items:center;">
-  <a href="https://www.postgresql.org/docs/" target="_blank"><img src="https://img.icons8.com/color/36/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL"/></a>
-  <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://cdn.simpleicons.org/mongodb/4FAA41" alt="MongoDB" title="MongoDB" height="36"/></a>
-  <a href="https://redis.io/docs/" target="_blank"><img src="https://img.icons8.com/color/36/000000/redis.png" alt="Redis" title="Redis"/></a>
-  <a href="https://www.prisma.io/docs/" target="_blank"><img src="https://img.icons8.com/color/36/000000/prisma-orm.png" alt="Prisma" title="Prisma"/></a>
-</p>
-
-<!-- Cloud & DevOps -->
-<h4>☁️ Cloud & DevOps</h4>
-<p align="left" style="display:flex;gap:10px;flex-wrap:wrap;align-items:center;">
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/amazonaws" alt="AWS" title="AWS" height="36"/>
-  </a>
-  <a href="https://docs.aws.amazon.com/lambda/" target="_blank">
-    <img src="https://cdn.simpleicons.org/awslambda" alt="AWS Lambda" title="AWS Lambda" height="36"/>
-  </a>
-  <a href="https://docs.aws.amazon.com/s3/" target="_blank">
-    <img src="https://cdn.simpleicons.org/amazons3" alt="Amazon S3" title="Amazon S3" height="36"/>
-  </a>
-  <a href="https://docs.aws.amazon.com/ecs/" target="_blank">
-    <img src="https://cdn.simpleicons.org/amazonecs" alt="Amazon ECS" title="Amazon ECS" height="36"/>
-  </a>
-  <a href="https://docs.docker.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker" height="36"/>
-  </a>
-  <a href="https://vercel.com/docs" target="_blank">
-    <img src="https://cdn.simpleicons.org/vercel/ffffff" alt="Vercel" title="Vercel" height="36"/>
-  </a>
-</p>
-
-<!-- Tools & Others -->
-<h4>🛠️ Tools & Others</h4>
-<p align="left" style="display:flex;gap:10px;flex-wrap:wrap;align-items:center;">
-  <a href="https://git-scm.com/doc" target="_blank"><img src="https://img.icons8.com/color/36/000000/git.png" alt="Git" title="Git"/></a>
-  <a href="https://docs.github.com/" target="_blank"><img src="https://img.icons8.com/ios-glyphs/36/FFFFFF/github.png" alt="GitHub" title="GitHub" style="background:#000;border-radius:4px;"/></a>
-  <a href="https://jestjs.io/docs/getting-started" target="_blank"><img src="https://cdn.simpleicons.org/jest" alt="Jest" title="Jest" height="36"/></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=620&lines=Full-Stack+Engineer+%C2%B7+TypeScript+%2B+Python;Building+AI-native+apps+with+RAG+%26+LLMs;React+%E2%80%A2+Next.js+%E2%80%A2+FastAPI+%E2%80%A2+MongoDB;Shipping+pragmatic+software+from+Chennai+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG"/>
 </p>
 
 ---
+
+### &nbsp;👨‍💻 &nbsp;About me
+
+```yaml
+name:       Ratheesh Karnan
+role:       Full-Stack Engineer
+location:   Chennai, India 🇮🇳
+focus:      AI Engineering · Retrieval-Augmented Generation
+stack:      TypeScript · React · Next.js · Node · FastAPI · MongoDB
+learning:   LLM orchestration, vector search, agentic workflows
+reach:      ratheeshkarnan1999@gmail.com
+```
+
+- 🔭 &nbsp;Currently building &nbsp;·&nbsp; full-stack apps with **React / Next.js** and **FastAPI**
+- 🌱 &nbsp;Currently learning &nbsp;·&nbsp; **AI Engineering**, **RAG pipelines**, and **agent design**
+- 💬 &nbsp;Ask me about &nbsp;·&nbsp; **React**, **Express**, **Next.js**, **MongoDB**
+- ⚡ &nbsp;Fun fact &nbsp;·&nbsp; I treat every side-project as a chance to sneak in a new LLM trick
+
+---
+
+### &nbsp;🛠️ &nbsp;Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Languages**
+<p>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,python" /></a>
+</p>
+
+**Frontend**
+<p>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" /></a>
+</p>
+
+**Backend**
+<p>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,kafka" /></a>
+</p>
+
+</td>
+<td valign="top" width="50%">
+
+**Databases & ORMs**
+<p>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" /></a>
+</p>
+
+**Cloud & DevOps**
+<p>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,vercel" /></a>
+</p>
+
+**Tools**
+<p>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,jest,postman,vscode" /></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+### &nbsp;🤖 &nbsp;AI / LLM Toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=langchain,openai,anthropic" height="48"/>
+  &nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/langgraph.png" height="48" alt="LangGraph"/>
+  &nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/llamaindex.png" height="48" alt="LlamaIndex"/>
+  &nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/ollama.png" height="48" alt="Ollama"/>
+  &nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/huggingface.png" height="48" alt="Hugging Face"/>
+  &nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/gemini.png" height="48" alt="Gemini"/>
+  &nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/claude.png" height="48" alt="Claude"/>
+</p>
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**🧩 Frameworks**
+- LangChain · LangGraph
+- LlamaIndex
+- Vercel AI SDK
+
+</td>
+<td valign="top" width="33%">
+
+**🧠 Model Providers**
+- OpenAI (GPT-4o/5)
+- Anthropic (Claude)
+- Google Gemini
+- Ollama (local)
+
+</td>
+<td valign="top" width="33%">
+
+**🔍 RAG & Vector**
+- Pinecone · Qdrant
+- pgvector · Chroma
+- Hugging Face
+- MCP · Function calling
+
+</td>
+</tr>
+</table>
+
+---
+
+### &nbsp;📊 &nbsp;GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ratheesh-24&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=cbd5e1&bg_color=0f172a" alt="stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratheesh-24&layout=compact&langs_count=8&hide_border=true&title_color=0ea5e9&text_color=cbd5e1&bg_color=0f172a" alt="top langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ratheesh-24&hide_border=true&background=0f172a&stroke=0ea5e9&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ratheesh-24&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a8a,100:0f172a&height=100&section=footer" alt="footer"/>
+</p>
+
+<p align="center">
+  <i>« Build small, ship often, learn always. »</i>
+</p>
