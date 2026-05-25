@@ -12,11 +12,11 @@
   <a href="https://github.com/Ratheesh-24">
     <img src="https://img.shields.io/badge/GitHub-Ratheesh--24-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Based%20in-Chennai,%20India-1e3a8a?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Based%20in-Coimbatore,%20India-1e3a8a?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=620&lines=Full-Stack+Engineer+%C2%B7+TypeScript+%2B+Python;Building+AI-native+apps+with+RAG+%26+LLMs;React+%E2%80%A2+Next.js+%E2%80%A2+FastAPI+%E2%80%A2+MongoDB;Shipping+pragmatic+software+from+Chennai+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=620&lines=Full-Stack+Engineer+%C2%B7+TypeScript+%2B+Python;Building+AI-native+apps+with+RAG+%26+LLMs;React+%E2%80%A2+Next.js+%E2%80%A2+FastAPI+%E2%80%A2+MongoDB;Shipping+pragmatic+software+from+Coimbatore+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG"/>
 </p>
 
 ---
@@ -26,7 +26,7 @@
 ```yaml
 name:       Ratheesh Karnan
 role:       Full-Stack Engineer
-location:   Chennai, India 🇮🇳
+location:   Coimbatore, India 🇮🇳
 focus:      AI Engineering · Retrieval-Augmented Generation
 stack:      TypeScript · React · Next.js · Node · FastAPI · MongoDB
 learning:   LLM orchestration, vector search, agentic workflows
